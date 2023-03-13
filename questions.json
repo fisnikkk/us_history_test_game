@@ -1,0 +1,111 @@
+[
+    {
+        "question": "Who was the first President of the United States?",
+        "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln"],
+        "answer": "George Washington"
+    },
+    
+    {
+        "question": "What year did the American Revolution begin?",
+        "options": ["1776", "1789", "1861"],
+        "answer": "1776"
+    },
+    {
+        "question": "What was the main cause of the American Civil War?",
+        "options": ["States' rights", "Slavery", "Economic differences"],
+        "answer": "Slavery"
+    },
+    {
+        "question": "Who wrote the Declaration of Independence?",
+        "options": ["Thomas Jefferson", "John Adams", "Benjamin Franklin"],
+        "answer": "Thomas Jefferson"
+    },
+    {
+        "question": "What was the purpose of the Underground Railroad?",
+        "options": ["To transport goods underground", "To smuggle people across borders", "To help slaves escape to freedom"],
+        "answer": "To help slaves escape to freedom"
+    },
+    {
+        "question": "Who was the first African American President of the United States?",
+        "options": ["Barack Obama", "Bill Clinton", "George W. Bush"],
+        "answer": "Barack Obama"
+    },
+    {
+        "question": "Which famous speech began with the words 'Four score and seven years ago'?",
+        "options": ["The Gettysburg Address", "The Emancipation Proclamation", "The Declaration of Independence"],
+        "answer": "The Gettysburg Address"
+    },
+    {
+        "question": "Who was the leader of the Union Army during the Civil War?",
+        "options": ["Robert E. Lee", "Ulysses S. Grant", "William T. Sherman"],
+        "answer": "Ulysses S. Grant"
+    },
+    {
+        "question": "Who assassinated President Abraham Lincoln?",
+        "options": ["John Wilkes Booth", "Lee Harvey Oswald", "James Earl Ray"],
+        "answer": "John Wilkes Booth"
+    },
+    {
+        "question": "What was the primary reason for the Louisiana Purchase?",
+        "options": ["To expand American territory", "To acquire a major port", "To abolish slavery"],
+        "answer": "To expand American territory"
+    },
+    {
+        "question": "Who discovered America?",
+        "options": ["Christopher Columbus", "Leif Erikson", "Marco Polo"],
+        "answer": "Christopher Columbus"
+    },
+    {
+        "question": "Who invented the light bulb?",
+        "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla"],
+        "answer": "Thomas Edison"
+    },
+    {
+        "question": "What event led to the United States' entry into World War II?",
+        "options": ["The bombing of Pearl Harbor", "The invasion of Poland", "The sinking of the Lusitania"],
+        "answer": "The bombing of Pearl Harbor"
+    },
+    {
+        "question": "What was the purpose of the Boston Tea Party?",
+        "options": ["To celebrate a major victory", "To protest high taxes", "To promote a new political party"],
+        "answer": "To protest high taxes"
+    },
+    {
+        "question": "What was the significance of the Emancipation Proclamation?",
+        "options": ["It abolished slavery throughout the United States", "It declared war on the Confederacy", "It established the Jim Crow laws"],
+        "answer": "It abolished slavery throughout the United States"
+    },
+
+    {
+        "question": "Who was the President of the Confederate States of America during the Civil War?",
+        "options": ["Robert E. Lee", "Jefferson Davis", "Stonewall Jackson"],
+        "answer": "Jefferson Davis"
+    },
+
+    {
+        "question": "Who was the President of the Confederate States of America during the Civil War?",
+        "options": ["Robert E. Lee", "Jefferson Davis", "Stonewall Jackson"],
+        "answer": "Jefferson Davis"
+    },
+    {
+        "question": "What is the nickname for the period of economic growth and prosperity in the United States during the 1920s?",
+        "options": ["The Great Depression", "The Roaring Twenties", "The Civil Rights Era"],
+        "answer": "The Roaring Twenties"
+    },
+    {
+        "question": "Who invented the telephone?",
+        "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla"],
+        "answer": "Alexander Graham Bell"
+    },
+    {
+        "question": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+        "options": ["Vladimir Putin", "Mikhail Gorbachev", "Nikita Khrushchev"],
+        "answer": "Nikita Khrushchev"
+    },
+    {
+        "question": "What was the name of the ship that Charles Darwin sailed on during his voyage to the Galapagos Islands?",
+        "options": ["The Mayflower", "The Beagle", "The Santa Maria"],
+        "answer": "The Beagle"
+    }
+    
+]
